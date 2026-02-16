@@ -45,7 +45,7 @@ ooBtn.addEventListener("click", () => {
 
 // WEN is clicked
 
-ooBtn.addEventListener("click", () => {
+wenBtn.addEventListener("click", () => {
     title.textContent = "YAYYY! Ay-ayaten ka! 😘";
 
     pittoImg.src = "smiling-pitbull.gif";
@@ -56,7 +56,7 @@ ooBtn.addEventListener("click", () => {
 
 // IYO is clicked
 
-ooBtn.addEventListener("click", () => {
+iyoBtn.addEventListener("click", () => {
     title.textContent = "YAYYY! Namumutan ta ka! 😘";
 
     pittoImg.src = "smiling-pitbull.gif";
