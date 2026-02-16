@@ -117,7 +117,10 @@ height: auto;
 display: inline-block;
 }
 
-.yes-btn {
+.yes-btn,
+.oo-btn,
+.wen-btn,
+.iyo-btn {
     position: relative;
     z-index: 2;
 }
