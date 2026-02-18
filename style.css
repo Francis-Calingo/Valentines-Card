@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("background.jpg");
+    background-image: url("./assets/background.jpg");
     font-family: "Pixelify Sans", sans-serif;
     color: rgba(102, 0, 102, 1.0)
 }
