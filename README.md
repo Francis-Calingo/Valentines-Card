@@ -13,3 +13,25 @@
 **Original source code:** https://github.com/lovesulei/valentine-ask
 
 **Tools used:** HTML, CSS, JavaScript, VS Code
+
+
+```
+
+├── Assets          <- Images and GIFs
+│   ├── background.jpg <- background image                 
+│   ├── envelope.jpg   <- envelope at start of the page 
+│   ├── pitbull.gif    <- GIF of a pitbull when envelope is clicked
+│   ├── smiling-pitbull.gif    <- GIF of a pitbull when an option is clicked
+│   ├── window.png    <- window pane
+│
+├── README.md         <- README
+│
+│
+├── index.html         <- HTML
+│
+│
+├── script.js          <- JavaScript
+│
+│
+├── style.css      <- CSS
+```
