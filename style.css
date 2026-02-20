@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("./assets/background.jpg");
+    background-image: url("./Assets/background.jpg");
     font-family: "Pixelify Sans", sans-serif;
     color: rgba(102, 0, 102, 1.0)
 }
@@ -51,7 +51,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("./assets/window.png");
+    background-image: url("./Assets/window.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
