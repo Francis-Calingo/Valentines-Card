@@ -26,7 +26,7 @@ envelope.addEventListener("click", () => {
 yesBtn.addEventListener("click", () => {
     title.textContent = "YAYYY! I love you! 😘";
 
-    pittoImg.src = "./assets/smiling-pitbull.gif";
+    pittoImg.src = "./Assets/smiling-pitbull.gif";
 
     buttons.style.display = "none";
 
@@ -37,7 +37,7 @@ yesBtn.addEventListener("click", () => {
 ooBtn.addEventListener("click", () => {
     title.textContent = "YAYYY! Mahal kita! 😘";
 
-    pittoImg.src = "./assets/smiling-pitbull.gif";
+    pittoImg.src = "./Assets/smiling-pitbull.gif";
 
     buttons.style.display = "none";
 
@@ -48,7 +48,7 @@ ooBtn.addEventListener("click", () => {
 wenBtn.addEventListener("click", () => {
     title.textContent = "YAYYY! Ay-ayaten ka! 😘";
 
-    pittoImg.src = "./assets/smiling-pitbull.gif";
+    pittoImg.src = "./Assets/smiling-pitbull.gif";
 
     buttons.style.display = "none";
 
@@ -59,7 +59,7 @@ wenBtn.addEventListener("click", () => {
 iyoBtn.addEventListener("click", () => {
     title.textContent = "YAYYY! Namumutan ta ka! 😘";
 
-    pittoImg.src = "./assets/smiling-pitbull.gif";
+    pittoImg.src = "./Assets/smiling-pitbull.gif";
 
     buttons.style.display = "none";
 
