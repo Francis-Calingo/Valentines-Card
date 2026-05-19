@@ -25,8 +25,8 @@ Virtual Valentine's card. The user is prompted to click the envelope. Once the e
 Once a selection is made, one of the four messages will appear depending on the option selected:
 * YAYYY! I love you! 😘
 * YAYYY! Mahal kita! 😘 (Tagalog)
-* YAYYY! I love you! 😘 (Ilocano)
-* YAYYY! I love you! 😘 (Bikol)
+* YAYYY! Ay-ayaten ka! 😘 (Ilocano)
+* YAYYY! Namumutan ta ka! 😘 (Bikol)
   
 ```
 
