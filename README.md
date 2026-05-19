@@ -18,6 +18,7 @@
 ```
 
 ├── Assets          <- Images and GIFs
+│   ├── Card_Preview.gif <- GIF of preview
 │   ├── background.jpg <- background image                 
 │   ├── envelope.jpg   <- envelope at start of the page 
 │   ├── pitbull.gif    <- GIF of a pitbull when envelope is clicked
