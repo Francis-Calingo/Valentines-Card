@@ -14,7 +14,7 @@
 
 **Tools used:** HTML, CSS, JavaScript, VS Code
 
-
+**Details:**
 ```
 
 ├── Assets          <- Images and GIFs
