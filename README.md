@@ -7,9 +7,7 @@
 
 **Preview:**
 
-<img src="https://github.com/Francis-Calingo/Valentines-Card/blob/main/Valentines-Card-Preview.mp4"/>
-
-Card_Preview.gif
+<img src="https://github.com/Francis-Calingo/Valentines-Card/Assets/Card_Preview.gif"/>
 
 
 **Original source code:** https://github.com/lovesulei/valentine-ask
