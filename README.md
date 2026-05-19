@@ -14,7 +14,20 @@
 
 **Tools used:** HTML, CSS, JavaScript, VS Code
 
-**Description:**
+**Description:** 
+
+Virtual Valentine's card. The user is prompted to click the envelope. Once the envelope is "opened", the user is prompted to click one of the 4 options:
+* YES
+* OO (Tagalog)
+* WEN (Ilocano
+* IYO (Bikol)
+
+Once a selection is made, one of the four messages will appear depending on the option selected:
+* YAYYY! I love you! 😘
+* YAYYY! Mahal kita! 😘 (Tagalog)
+* YAYYY! I love you! 😘 (Ilocano)
+* YAYYY! I love you! 😘 (Bikol)
+  
 ```
 
 ├── Assets          <- Images and GIFs
